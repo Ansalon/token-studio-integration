@@ -4084,6 +4084,13 @@
           "type": "color",
           "description": "Цвет фона на уровне xl"
         }
+      },
+      "inverse": {
+        "elevated": {
+          "value": "{neutral-dark-700}",
+          "type": "color",
+          "description": "Инверсионный цвет для всплывающих элементов в светлой теме"
+        }
       }
     },
     "border": {
@@ -5194,6 +5201,13 @@
           "value": "{neutral-dark-700}",
           "type": "color",
           "description": "Цвет фона на уровне xl"
+        }
+      },
+      "inverse": {
+        "elevated": {
+          "value": "{neutral-0}",
+          "type": "color",
+          "description": "Инверсионный цвет для всплывающих элементов в тёмной теме"
         }
       }
     },
@@ -6695,7 +6709,8 @@
         "static.black": "2d0c38c782ffe3d7b48b3aaf50797232d157e25a",
         "focus.soft": "b9b26361af54e12fda45f5cdfa88a8915f1c4a39",
         "focus.contrast": "36a6e09b428f7e785b1cf0c50ef87519fd478e65",
-        "focus.extra": "833918a2a0f908bf49c2088228f31bf040c6d234"
+        "focus.extra": "833918a2a0f908bf49c2088228f31bf040c6d234",
+        "bg.inverse.elevated": "a4d6f02af3dbe6c69e9af111d03b3341ff82f723"
       },
       "group": "mode"
     },
@@ -6887,7 +6902,8 @@
         "static.black": "2d0c38c782ffe3d7b48b3aaf50797232d157e25a",
         "focus.soft": "b9b26361af54e12fda45f5cdfa88a8915f1c4a39",
         "focus.contrast": "36a6e09b428f7e785b1cf0c50ef87519fd478e65",
-        "focus.extra": "833918a2a0f908bf49c2088228f31bf040c6d234"
+        "focus.extra": "833918a2a0f908bf49c2088228f31bf040c6d234",
+        "bg.inverse.elevated": "a4d6f02af3dbe6c69e9af111d03b3341ff82f723"
       },
       "group": "mode"
     }
