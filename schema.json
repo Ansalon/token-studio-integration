@@ -4084,13 +4084,6 @@
           "type": "color",
           "description": "Цвет фона на уровне xl"
         }
-      },
-      "inverse": {
-        "elevated": {
-          "value": "{neutral-dark-700}",
-          "type": "color",
-          "description": "Инверсионный цвет для всплывающих элементов в светлой теме"
-        }
       }
     },
     "border": {
@@ -5201,13 +5194,6 @@
           "value": "{neutral-dark-700}",
           "type": "color",
           "description": "Цвет фона на уровне xl"
-        }
-      },
-      "inverse": {
-        "elevated": {
-          "value": "{neutral-0}",
-          "type": "color",
-          "description": "Инверсионный цвет для всплывающих элементов в тёмной теме"
         }
       }
     },
